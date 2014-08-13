@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/MauricioNewWest/teach/issues"
   },
-  "homepage": "https://github.com/MauricioNewWest/teach"
+  "homepage": "https://github.com/MauricioNewWest/teach",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
