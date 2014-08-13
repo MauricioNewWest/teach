@@ -1,0 +1,27 @@
+{
+  "name": "DeacreaseFootprint",
+  "version": "0.0.0",
+  "description": "Learn hot to optimize",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauricioNewWest/teach.git"
+  },
+  "keywords": [
+    "minify",
+    "concat",
+    "obfuscate",
+    "css",
+    "js",
+    "html"
+  ],
+  "author": "Mauricio Araujo",
+  "license": "No License",
+  "bugs": {
+    "url": "https://github.com/MauricioNewWest/teach/issues"
+  },
+  "homepage": "https://github.com/MauricioNewWest/teach"
+}
