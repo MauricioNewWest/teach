@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/MauricioNewWest/teach",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-htmlhint": "^0.4.1"
   }
 }
